@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShoppingListProject/static/css/main.073c9b0a.css",
+    "main.js": "/ShoppingListProject/static/js/main.b7bc2cb3.js",
+    "static/js/787.88012170.chunk.js": "/ShoppingListProject/static/js/787.88012170.chunk.js",
+    "static/media/logo.svg": "/ShoppingListProject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ShoppingListProject/index.html",
+    "main.073c9b0a.css.map": "/ShoppingListProject/static/css/main.073c9b0a.css.map",
+    "main.b7bc2cb3.js.map": "/ShoppingListProject/static/js/main.b7bc2cb3.js.map",
+    "787.88012170.chunk.js.map": "/ShoppingListProject/static/js/787.88012170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b7bc2cb3.js"
+  ]
+}
